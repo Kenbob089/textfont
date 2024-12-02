@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>=====================================
+=====================================
 Other
 =====================================
 'Discord'
@@ -862,7 +859,3 @@ Serif
 'Fasthand', serif
 'Peddana', serif
 'Suravaram', serif
-</h1>
-
-</body>
-</html>
